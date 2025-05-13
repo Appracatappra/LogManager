@@ -1,4 +1,4 @@
-// swift-tools-version: 6.0
+// swift-tools-version: 6.1
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 // Privacy Manifest Info: https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/adding_a_privacy_manifest_to_your_app_or_third-party_sdk
 // Privacy Manifest Example: https://apnspush.com/add-privacy-manifest-sdk
@@ -21,7 +21,7 @@ let package = Package(
             name: "LogManager",
             resources: [.process("Resources")],
             swiftSettings: [
-                .swiftLanguageVersion(.v6)
+                .swiftLanguageMode(.v6)
             ]
         ),
         .testTarget(

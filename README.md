@@ -1,6 +1,6 @@
 # LogManager
 
-![](https://img.shields.io/badge/license-MIT-green) ![](https://img.shields.io/badge/maintained%3F-Yes-green) ![](https://img.shields.io/badge/swift-6.0-green) ![](https://img.shields.io/badge/iOS-18.0-red) ![](https://img.shields.io/badge/macOS-15.0-red) ![](https://img.shields.io/badge/tvOS-18.0-red) ![](https://img.shields.io/badge/watchOS-11.0-red)
+![](https://img.shields.io/badge/license-MIT-green) ![](https://img.shields.io/badge/maintained%3F-Yes-green) ![](https://img.shields.io/badge/swift-6.0-green) ![](https://img.shields.io/badge/iOS-26.0-red) ![](https://img.shields.io/badge/macOS-26.0-red) ![](https://img.shields.io/badge/tvOS-26.0-red) ![](https://img.shields.io/badge/watchOS-26.0-red)
 
 
 LogManager is a simple library to make it easier to add pretty debugging logging entries to an App project.

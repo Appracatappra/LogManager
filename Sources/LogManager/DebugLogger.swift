@@ -6,7 +6,7 @@
 //
 import Foundation
 import OSLog
-
+ 
 /// A helper class to incorporate logging that will be deactivated when the app is built for release.
 open class Debug {
     // MARK: - Static Properties
